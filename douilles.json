@@ -1,4 +1,5 @@
 [
+  // Mario
   {
     "0": [
       {
@@ -12,9 +13,11 @@
         "counter": "Vous pouvez perdre une stock bêtement, faite une di down away"
       }
     ],
+    // Donkey Kong
     "1": [
 
     ],
+    // Link (The Legend of Zelda)
     "2": [
       {
         "title": "",
@@ -22,6 +25,7 @@
         "counter": ""
       }
     ],
+    // Samus (Metroid)
     "3": [
       {
         "title": "",
@@ -29,6 +33,7 @@
         "counter": ""
       }
     ],
+    // Dark Samus
     "4": [
       {
         "title": "",
@@ -36,6 +41,7 @@
         "counter": ""
       }
     ],
+    // Yoshi
     "5": [
       {
         "title": "",
@@ -43,6 +49,7 @@
         "counter": ""
       }
     ],
+    // Kirby
     "6": [
       {
         "title": "",
@@ -50,6 +57,7 @@
         "counter": ""
       }
     ],
+    // Fox
     "7": [
       {
         "title": "",
@@ -57,6 +65,7 @@
         "counter": ""
       }
     ],
+    // Pikachu
     "8": [
       {
         "title": "",
@@ -64,6 +73,7 @@
         "counter": ""
       }
     ],
+    // Luigi
     "9": [
       {
         "title": "",
@@ -71,6 +81,7 @@
         "counter": ""
       }
     ],
+    // Ness
     "10": [
       {
         "title": "",
@@ -78,6 +89,7 @@
         "counter": ""
       }
     ],
+    // Captain Falcon
     "11": [
       {
         "title": "",
@@ -85,6 +97,7 @@
         "counter": ""
       }
     ],
+    // Jigglypuff
     "12": [
       {
         "title": "",
@@ -92,6 +105,7 @@
         "counter": ""
       }
     ],
+    // Peach
     "13": [
       {
         "title": "",
@@ -99,6 +113,7 @@
         "counter": ""
       }
     ],
+    // Bowser
     "14": [
       {
         "title": "",
@@ -106,6 +121,7 @@
         "counter": ""
       }
     ],
+    // Ice Climbers
     "15": [
       {
         "title": "",
@@ -113,6 +129,7 @@
         "counter": ""
       }
     ],
+    // Sheik
     "16": [
       {
         "title": "",
@@ -120,6 +137,7 @@
         "counter": ""
       }
     ],
+    // Zelda
     "17": [
       {
         "title": "",
@@ -127,6 +145,7 @@
         "counter": ""
       }
     ],
+    // Dr. Mario
     "18": [
       {
         "title": "",
@@ -134,6 +153,7 @@
         "counter": ""
       }
     ],
+    // Pichu
     "19": [
       {
         "title": "",
@@ -141,6 +161,7 @@
         "counter": ""
       }
     ],
+    // Falco
     "20": [
       {
         "title": "",
@@ -148,6 +169,7 @@
         "counter": ""
       }
     ],
+    // Marth
     "21": [
       {
         "title": "",
@@ -155,6 +177,7 @@
         "counter": ""
       }
     ],
+    // Lucina
     "22": [
       {
         "title": "",
@@ -162,6 +185,7 @@
         "counter": ""
       }
     ],
+    // Young Link
     "23": [
       {
         "title": "",
@@ -169,6 +193,7 @@
         "counter": ""
       }
     ],
+    // Ganondorf
     "24": [
       {
         "title": "",
@@ -176,6 +201,7 @@
         "counter": ""
       }
     ],
+    // Mewtwo
     "25": [
       {
         "title": "",
@@ -183,6 +209,7 @@
         "counter": ""
       }
     ],
+    // Roy
     "26": [
       {
         "title": "",
@@ -190,6 +217,7 @@
         "counter": ""
       }
     ],
+    // Chrom
     "27": [
       {
         "title": "",
@@ -197,6 +225,7 @@
         "counter": ""
       }
     ],
+    // Mr. Game & Watch
     "28": [
       {
         "title": "",
@@ -204,6 +233,7 @@
         "counter": ""
       }
     ],
+    // Meta Knight
     "29": [
       {
         "title": "",
@@ -211,6 +241,7 @@
         "counter": ""
       }
     ],
+    // Pit
     "30": [
       {
         "title": "",
@@ -218,6 +249,7 @@
         "counter": ""
       }
     ],
+    // Dark Pit
     "31": [
       {
         "title": "",
@@ -225,6 +257,7 @@
         "counter": ""
       }
     ],
+    // Zero Suit Samus
     "32": [
       {
         "title": "",
@@ -232,6 +265,7 @@
         "counter": ""
       }
     ],
+    // Wario
     "33": [
       {
         "title": "",
@@ -239,6 +273,7 @@
         "counter": ""
       }
     ],
+    // Snake
     "34": [
       {
         "title": "",
@@ -246,6 +281,7 @@
         "counter": ""
       }
     ],
+    // Ike
     "35": [
       {
         "title": "",
