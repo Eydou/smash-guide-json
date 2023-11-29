@@ -1,6 +1,6 @@
 [
-  /* Mario */
   {
+    "_comment": "Mario",
     "0": [
       {
         "title": "LedgeTrump Side B",
@@ -10,14 +10,14 @@
       {
         "title": "Up air Up air Down air",
         "link": "https://eydou.github.io/smash-guide-json/douilles/The%20Greatest%20Mario%20Plays%20in%20Smash%20Ultimate.mp4",
-        "counter": "Vous pouvez perdre une stock bêtement, faite une di down away"
+        "counter": "Vous pouvez perdre une stock bêtement, faites une di down away"
       }
     ],
-    /* Donkey Kong */
+    "_comment": "Donkey Kong",
     "1": [
 
     ],
-    /* Link (The Legend of Zelda) */
+    "_comment": "Link (The Legend of Zelda)",
     "2": [
       {
         "title": "",
@@ -25,7 +25,7 @@
         "counter": ""
       }
     ],
-    /* Samus (Metroid) */
+    "_comment": "Samus (Metroid)",
     "3": [
       {
         "title": "",
@@ -33,7 +33,7 @@
         "counter": ""
       }
     ],
-    /* Dark Samus */
+    "_comment": "Dark Samus",
     "4": [
       {
         "title": "",
@@ -41,7 +41,7 @@
         "counter": ""
       }
     ],
-    /* Yoshi */
+    "_comment": "Yoshi",
     "5": [
       {
         "title": "",
@@ -49,7 +49,7 @@
         "counter": ""
       }
     ],
-    /* Kirby */
+    "_comment": "Kirby",
     "6": [
       {
         "title": "",
@@ -57,7 +57,7 @@
         "counter": ""
       }
     ],
-    /* Fox */
+    "_comment": "Fox",
     "7": [
       {
         "title": "",
@@ -65,7 +65,7 @@
         "counter": ""
       }
     ],
-    /* Pikachu */
+    "_comment": "Pikachu",
     "8": [
       {
         "title": "",
@@ -73,7 +73,7 @@
         "counter": ""
       }
     ],
-    /* Luigi */
+    "_comment": "Luigi",
     "9": [
       {
         "title": "",
@@ -81,7 +81,7 @@
         "counter": ""
       }
     ],
-    /* Ness */
+    "_comment": "Ness",
     "10": [
       {
         "title": "",
@@ -89,7 +89,7 @@
         "counter": ""
       }
     ],
-    /* Captain Falcon */
+    "_comment": "Captain Falcon",
     "11": [
       {
         "title": "",
@@ -97,7 +97,7 @@
         "counter": ""
       }
     ],
-    /* Jigglypuff */
+    "_comment": "Jigglypuff",
     "12": [
       {
         "title": "",
@@ -105,7 +105,7 @@
         "counter": ""
       }
     ],
-    /* Peach */
+    "_comment": "Peach",
     "13": [
       {
         "title": "",
@@ -113,7 +113,7 @@
         "counter": ""
       }
     ],
-    /* Bowser */
+    "_comment": "Bowser",
     "14": [
       {
         "title": "",
@@ -121,7 +121,7 @@
         "counter": ""
       }
     ],
-    /* Ice Climbers */
+    "_comment": "Ice Climbers",
     "15": [
       {
         "title": "",
@@ -129,7 +129,7 @@
         "counter": ""
       }
     ],
-    /* Sheik */
+    "_comment": "Sheik",
     "16": [
       {
         "title": "",
@@ -137,7 +137,7 @@
         "counter": ""
       }
     ],
-    /* Zelda */
+    "_comment": "Zelda",
     "17": [
       {
         "title": "",
@@ -145,7 +145,7 @@
         "counter": ""
       }
     ],
-    /* Dr. Mario */
+    "_comment": "Dr. Mario",
     "18": [
       {
         "title": "",
@@ -153,7 +153,7 @@
         "counter": ""
       }
     ],
-    /* Pichu */
+    "_comment": "Pichu",
     "19": [
       {
         "title": "",
@@ -161,7 +161,7 @@
         "counter": ""
       }
     ],
-    /* Falco */
+    "_comment": "Falco",
     "20": [
       {
         "title": "",
@@ -169,7 +169,7 @@
         "counter": ""
       }
     ],
-    /* Marth */
+    "_comment": "Marth",
     "21": [
       {
         "title": "",
@@ -177,7 +177,7 @@
         "counter": ""
       }
     ],
-    /* Lucina */
+    "_comment": "Lucina",
     "22": [
       {
         "title": "",
@@ -185,7 +185,7 @@
         "counter": ""
       }
     ],
-    /* Young Link */
+    "_comment": "Young Link",
     "23": [
       {
         "title": "",
@@ -193,7 +193,7 @@
         "counter": ""
       }
     ],
-    /* Ganondorf */
+    "_comment": "Ganondorf",
     "24": [
       {
         "title": "",
@@ -201,7 +201,7 @@
         "counter": ""
       }
     ],
-    /* Mewtwo */
+    "_comment": "Mewtwo",
     "25": [
       {
         "title": "",
@@ -209,7 +209,7 @@
         "counter": ""
       }
     ],
-    /* Roy */
+    "_comment": "Roy",
     "26": [
       {
         "title": "",
@@ -217,7 +217,7 @@
         "counter": ""
       }
     ],
-    /* Chrom */
+    "_comment": "Chrom",
     "27": [
       {
         "title": "",
@@ -225,7 +225,7 @@
         "counter": ""
       }
     ],
-    /* Mr. Game & Watch */
+    "_comment": "Mr. Game & Watch",
     "28": [
       {
         "title": "",
@@ -233,7 +233,7 @@
         "counter": ""
       }
     ],
-    /* Meta Knight */
+    "_comment": "Meta Knight",
     "29": [
       {
         "title": "",
@@ -241,7 +241,7 @@
         "counter": ""
       }
     ],
-    /* Pit */
+    "_comment": "Pit",
     "30": [
       {
         "title": "",
@@ -249,7 +249,7 @@
         "counter": ""
       }
     ],
-    /* Dark Pit */
+    "_comment": "Dark Pit",
     "31": [
       {
         "title": "",
@@ -257,7 +257,7 @@
         "counter": ""
       }
     ],
-    /* Zero Suit Samus */
+    "_comment": "Zero Suit Samus",
     "32": [
       {
         "title": "",
@@ -265,7 +265,7 @@
         "counter": ""
       }
     ],
-    /* Wario */
+    "_comment": "Wario",
     "33": [
       {
         "title": "",
@@ -273,7 +273,7 @@
         "counter": ""
       }
     ],
-    /* Snake */
+    "_comment": "Snake",
     "34": [
       {
         "title": "",
@@ -281,7 +281,7 @@
         "counter": ""
       }
     ],
-    /* Ike */
+    "_comment": "Ike",
     "35": [
       {
         "title": "",
@@ -289,7 +289,7 @@
         "counter": ""
       }
     ],
-    /* PT */
+    "_comment": "PT",
     "36": [
       {
         "title": "",
@@ -297,7 +297,7 @@
         "counter": ""
       }
     ],
-    /* Squirtle */
+    "_comment": "Squirtle",
     "37": [
       {
         "title": "",
@@ -305,7 +305,7 @@
         "counter": ""
       }
     ],
-    /* Diddy Kong */
+    "_comment": "Diddy Kong",
     "38": [
       {
         "title": "",
@@ -313,7 +313,7 @@
         "counter": ""
       }
     ],
-    /* Lucas */
+    "_comment": "Lucas",
     "39": [
       {
         "title": "",
@@ -321,7 +321,7 @@
         "counter": ""
       }
     ],
-    /* Sonic */
+    "_comment": "Sonic",
     "40": [
       {
         "title": "",
@@ -329,7 +329,7 @@
         "counter": ""
       }
     ],
-    /* King Dedede */
+    "_comment": "King Dedede",
     "41": [
       {
         "title": "",
@@ -337,7 +337,7 @@
         "counter": ""
       }
     ],
-    /* Olimar */
+    "_comment": "Olimar",
     "42": [
       {
         "title": "",
@@ -345,7 +345,7 @@
         "counter": ""
       }
     ],
-    /* Lucario */
+    "_comment": "Lucario",
     "43": [
       {
         "title": "",
@@ -353,7 +353,7 @@
         "counter": ""
       }
     ],
-    /* R.O.B. */
+    "_comment": "R.O.B.",
     "44": [
       {
         "title": "",
@@ -361,7 +361,7 @@
         "counter": ""
       }
     ],
-    /* Toon Link */
+    "_comment": "Toon Link",
     "45": [
       {
         "title": "",
@@ -369,7 +369,7 @@
         "counter": ""
       }
     ],
-    /* Wolf */
+    "_comment": "Wolf",
     "46": [
       {
         "title": "",
@@ -377,7 +377,7 @@
         "counter": ""
       }
     ],
-    /* Villager */
+    "_comment": "Villager",
     "47": [
       {
         "title": "",
@@ -385,7 +385,7 @@
         "counter": ""
       }
     ],
-    /* Mega Man */
+    "_comment": "Mega Man",
     "48": [
       {
         "title": "",
@@ -393,7 +393,7 @@
         "counter": ""
       }
     ],
-    /* Wii Fit Trainer */
+    "_comment": "Wii Fit Trainer",
     "49": [
       {
         "title": "",
@@ -401,7 +401,7 @@
         "counter": ""
       }
     ],
-    /* Rosalina & Luma */
+    "_comment": "Rosalina & Luma",
     "50": [
       {
         "title": "",
@@ -409,7 +409,7 @@
         "counter": ""
       }
     ],
-    /* Little Mac */
+    "_comment": "Little Mac",
     "51": [
       {
         "title": "",
@@ -417,7 +417,7 @@
         "counter": ""
       }
     ],
-    /* Greninja */
+    "_comment": "Greninja",
     "52": [
       {
         "title": "",
@@ -425,7 +425,7 @@
         "counter": ""
       }
     ],
-    /* Mii Brawler */
+    "_comment": "Mii Brawler",
     "53": [
       {
         "title": "",
@@ -433,7 +433,7 @@
         "counter": ""
       }
     ],
-    /* Mii Swordfighter */
+    "_comment": "Mii Swordfighter",
     "54": [
       {
         "title": "",
@@ -441,7 +441,7 @@
         "counter": ""
       }
     ],
-    /* Mii Gunner */
+    "_comment": "Mii Gunner",
     "55": [
       {
         "title": "",
@@ -449,7 +449,7 @@
         "counter": ""
       }
     ],
-    /* Palutena */
+    "_comment": "Palutena",
     "56": [
       {
         "title": "",
@@ -457,7 +457,7 @@
         "counter": ""
       }
     ],
-    /* Pac-Man */
+    "_comment": "Pac-Man",
     "57": [
       {
         "title": "",
@@ -465,7 +465,7 @@
         "counter": ""
       }
     ],
-    /* Robin */
+    "_comment": "Robin",
     "58": [
       {
         "title": "",
@@ -473,7 +473,7 @@
         "counter": ""
       }
     ],
-    /* Shulk */
+    "_comment": "Shulk",
     "59": [
       {
         "title": "",
@@ -481,7 +481,7 @@
         "counter": ""
       }
     ],
-    /* Bowser Jr. */
+    "_comment": "Bowser Jr.",
     "60": [
       {
         "title": "",
@@ -489,7 +489,7 @@
         "counter": ""
       }
     ],
-    /* Duck Hunt */
+    "_comment": "Duck Hunt",
     "61": [
       {
         "title": "",
@@ -497,7 +497,7 @@
         "counter": ""
       }
     ],
-    /* Ryu */
+    "_comment": "Ryu",
     "62": [
       {
         "title": "",
@@ -505,7 +505,7 @@
         "counter": ""
       }
     ],
-    /* Ken */
+    "_comment": "Ken",
     "63": [
       {
         "title": "",
@@ -513,7 +513,7 @@
         "counter": ""
       }
     ],
-    /* Cloud */
+    "_comment": "Cloud",
     "64": [
       {
         "title": "",
@@ -521,7 +521,7 @@
         "counter": ""
       }
     ],
-    /* Corrin */
+    "_comment": "Corrin",
     "65": [
       {
         "title": "",
@@ -529,7 +529,7 @@
         "counter": ""
       }
     ],
-    /* Bayonetta */
+    "_comment": "Bayonetta",
     "66": [
       {
         "title": "",
@@ -537,7 +537,7 @@
         "counter": ""
       }
     ],
-    /* Inkling */
+    "_comment": "Inkling",
     "67": [
       {
         "title": "",
@@ -545,7 +545,7 @@
         "counter": ""
       }
     ],
-    /* Ridley */
+    "_comment": "Ridley",
     "68": [
       {
         "title": "",
@@ -553,7 +553,7 @@
         "counter": ""
       }
     ],
-    /* Simon */
+    "_comment": "Simon",
     "69": [
       {
         "title": "",
@@ -561,7 +561,7 @@
         "counter": ""
       }
     ],
-    /* Richter */
+    "_comment": "Richter",
     "70": [
       {
         "title": "",
@@ -569,7 +569,7 @@
         "counter": ""
       }
     ],
-    /* King K. Rool */
+    "_comment": "King K. Rool",
     "71": [
       {
         "title": "",
@@ -577,7 +577,7 @@
         "counter": ""
       }
     ],
-    /* Isabelle */
+    "_comment": "Isabelle",
     "72": [
       {
         "title": "",
@@ -585,7 +585,7 @@
         "counter": ""
       }
     ],
-    /* Incineroar */
+    "_comment": "Incineroar",
     "73": [
       {
         "title": "",
@@ -593,7 +593,7 @@
         "counter": ""
       }
     ],
-    /* Piranha Plant */
+    "_comment": "Piranha Plant",
     "74": [
       {
         "title": "",
@@ -601,7 +601,7 @@
         "counter": ""
       }
     ],
-    /* Joker */
+    "_comment": "Joker",
     "75": [
       {
         "title": "",
@@ -609,7 +609,7 @@
         "counter": ""
       }
     ],
-    /* Hero */
+    "_comment": "Hero",
     "76": [
       {
         "title": "",
@@ -617,7 +617,7 @@
         "counter": ""
       }
     ],
-    /* Banjo & Kazooie */
+    "_comment": "Banjo & Kazooie",
     "77": [
       {
         "title": "",
@@ -625,7 +625,7 @@
         "counter": ""
       }
     ],
-    /* Terry */
+    "_comment": "Terry",
     "78": [
       {
         "title": "",
@@ -633,7 +633,7 @@
         "counter": ""
       }
     ],
-    /* Byleth */
+    "_comment": "Byleth",
     "79": [
       {
         "title": "",
@@ -641,7 +641,7 @@
         "counter": ""
       }
     ],
-    /* Min Min */
+    "_comment": "Min Min",
     "80": [
       {
         "title": "",
@@ -649,7 +649,7 @@
         "counter": ""
       }
     ],
-    /* Steve */
+    "_comment": "Steve",
     "81": [
       {
         "title": "",
@@ -657,7 +657,7 @@
         "counter": ""
       }
     ],
-    /* Sephiroth */
+    "_comment": "Sephiroth",
     "82": [
       {
         "title": "",
@@ -665,7 +665,7 @@
         "counter": ""
       }
     ],
-    /* Pyra/Mythra */
+    "_comment": "Pyra/Mythra",
     "83": [
       {
         "title": "",
@@ -673,7 +673,7 @@
         "counter": ""
       }
     ],
-    /* Kazuya */
+    "_comment": "Kazuya",
     "84": [
       {
         "title": "",
@@ -681,13 +681,14 @@
         "counter": ""
       }
     ],
-    /* Sora */
+    "_comment": "Sora",
     "85": [
       {
         "title": "",
         "link": "",
         "counter": ""
       }
-    ]
-  }
+    ],
+    }
 ]
+      
