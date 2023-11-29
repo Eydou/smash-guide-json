@@ -1,5 +1,5 @@
 [
-  // Mario
+  /* Mario */
   {
     "0": [
       {
@@ -13,11 +13,11 @@
         "counter": "Vous pouvez perdre une stock bêtement, faite une di down away"
       }
     ],
-    // Donkey Kong
+    /* Donkey Kong */
     "1": [
 
     ],
-    // Link (The Legend of Zelda)
+    /* Link (The Legend of Zelda) */
     "2": [
       {
         "title": "",
@@ -25,7 +25,7 @@
         "counter": ""
       }
     ],
-    // Samus (Metroid)
+    /* Samus (Metroid) */
     "3": [
       {
         "title": "",
@@ -33,7 +33,7 @@
         "counter": ""
       }
     ],
-    // Dark Samus
+    /* Dark Samus */
     "4": [
       {
         "title": "",
@@ -41,7 +41,7 @@
         "counter": ""
       }
     ],
-    // Yoshi
+    /* Yoshi */
     "5": [
       {
         "title": "",
@@ -49,7 +49,7 @@
         "counter": ""
       }
     ],
-    // Kirby
+    /* Kirby */
     "6": [
       {
         "title": "",
@@ -57,7 +57,7 @@
         "counter": ""
       }
     ],
-    // Fox
+    /* Fox */
     "7": [
       {
         "title": "",
@@ -65,7 +65,7 @@
         "counter": ""
       }
     ],
-    // Pikachu
+    /* Pikachu */
     "8": [
       {
         "title": "",
@@ -73,7 +73,7 @@
         "counter": ""
       }
     ],
-    // Luigi
+    /* Luigi */
     "9": [
       {
         "title": "",
@@ -81,7 +81,7 @@
         "counter": ""
       }
     ],
-    // Ness
+    /* Ness */
     "10": [
       {
         "title": "",
@@ -89,7 +89,7 @@
         "counter": ""
       }
     ],
-    // Captain Falcon
+    /* Captain Falcon */
     "11": [
       {
         "title": "",
@@ -97,7 +97,7 @@
         "counter": ""
       }
     ],
-    // Jigglypuff
+    /* Jigglypuff */
     "12": [
       {
         "title": "",
@@ -105,7 +105,7 @@
         "counter": ""
       }
     ],
-    // Peach
+    /* Peach */
     "13": [
       {
         "title": "",
@@ -113,7 +113,7 @@
         "counter": ""
       }
     ],
-    // Bowser
+    /* Bowser */
     "14": [
       {
         "title": "",
@@ -121,7 +121,7 @@
         "counter": ""
       }
     ],
-    // Ice Climbers
+    /* Ice Climbers */
     "15": [
       {
         "title": "",
@@ -129,7 +129,7 @@
         "counter": ""
       }
     ],
-    // Sheik
+    /* Sheik */
     "16": [
       {
         "title": "",
@@ -137,7 +137,7 @@
         "counter": ""
       }
     ],
-    // Zelda
+    /* Zelda */
     "17": [
       {
         "title": "",
@@ -145,7 +145,7 @@
         "counter": ""
       }
     ],
-    // Dr. Mario
+    /* Dr. Mario */
     "18": [
       {
         "title": "",
@@ -153,7 +153,7 @@
         "counter": ""
       }
     ],
-    // Pichu
+    /* Pichu */
     "19": [
       {
         "title": "",
@@ -161,7 +161,7 @@
         "counter": ""
       }
     ],
-    // Falco
+    /* Falco */
     "20": [
       {
         "title": "",
@@ -169,7 +169,7 @@
         "counter": ""
       }
     ],
-    // Marth
+    /* Marth */
     "21": [
       {
         "title": "",
@@ -177,7 +177,7 @@
         "counter": ""
       }
     ],
-    // Lucina
+    /* Lucina */
     "22": [
       {
         "title": "",
@@ -185,7 +185,7 @@
         "counter": ""
       }
     ],
-    // Young Link
+    /* Young Link */
     "23": [
       {
         "title": "",
@@ -193,7 +193,7 @@
         "counter": ""
       }
     ],
-    // Ganondorf
+    /* Ganondorf */
     "24": [
       {
         "title": "",
@@ -201,7 +201,7 @@
         "counter": ""
       }
     ],
-    // Mewtwo
+    /* Mewtwo */
     "25": [
       {
         "title": "",
@@ -209,7 +209,7 @@
         "counter": ""
       }
     ],
-    // Roy
+    /* Roy */
     "26": [
       {
         "title": "",
@@ -217,7 +217,7 @@
         "counter": ""
       }
     ],
-    // Chrom
+    /* Chrom */
     "27": [
       {
         "title": "",
@@ -225,7 +225,7 @@
         "counter": ""
       }
     ],
-    // Mr. Game & Watch
+    /* Mr. Game & Watch */
     "28": [
       {
         "title": "",
@@ -233,7 +233,7 @@
         "counter": ""
       }
     ],
-    // Meta Knight
+    /* Meta Knight */
     "29": [
       {
         "title": "",
@@ -241,7 +241,7 @@
         "counter": ""
       }
     ],
-    // Pit
+    /* Pit */
     "30": [
       {
         "title": "",
@@ -249,7 +249,7 @@
         "counter": ""
       }
     ],
-    // Dark Pit
+    /* Dark Pit */
     "31": [
       {
         "title": "",
@@ -257,7 +257,7 @@
         "counter": ""
       }
     ],
-    // Zero Suit Samus
+    /* Zero Suit Samus */
     "32": [
       {
         "title": "",
@@ -265,7 +265,7 @@
         "counter": ""
       }
     ],
-    // Wario
+    /* Wario */
     "33": [
       {
         "title": "",
@@ -273,7 +273,7 @@
         "counter": ""
       }
     ],
-    // Snake
+    /* Snake */
     "34": [
       {
         "title": "",
@@ -281,7 +281,7 @@
         "counter": ""
       }
     ],
-    // Ike
+    /* Ike */
     "35": [
       {
         "title": "",
@@ -289,7 +289,7 @@
         "counter": ""
       }
     ],
-    //PT
+    /* PT */
     "36": [
       {
         "title": "",
@@ -297,7 +297,7 @@
         "counter": ""
       }
     ],
-    // Squirtle
+    /* Squirtle */
     "37": [
       {
         "title": "",
@@ -305,389 +305,389 @@
         "counter": ""
       }
     ],
-     // Diddy Kong
-"38": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Lucas
-"39": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Sonic
-"40": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// King Dedede
-"41": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Olimar
-"42": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Lucario
-"43": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// R.O.B.
-"44": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Toon Link
-"45": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Wolf
-"46": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Villager
-"47": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Mega Man
-"48": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Wii Fit Trainer
-"49": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Rosalina & Luma
-"50": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Little Mac
-"51": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Greninja
-"52": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Mii Brawler
-"53": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Mii Swordfighter
-"54": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Mii Gunner
-"55": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Palutena
-"56": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Pac-Man
-"57": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Robin
-"58": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Shulk
-"59": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Bowser Jr.
-"60": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Duck Hunt
-"61": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Ryu
-"62": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Ken
-"63": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Cloud
-"64": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Corrin
-"65": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Bayonetta
-"66": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Inkling
-"67": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Ridley
-"68": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Simon
-"69": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Richter
-"70": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// King K. Rool
-"71": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Isabelle
-"72": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Incineroar
-"73": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Piranha Plant
-"74": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Joker
-"75": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Hero
-"76": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Banjo & Kazooie
-"77": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Terry
-"78": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Byleth
-"79": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Min Min
-"80": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Steve
-"81": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Sephiroth
-"82": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Pyra/Mythra
-"83": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Kazuya
-"84": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
-// Sora
-"85": [
-  {
-    "title": "",
-    "link": "",
-    "counter": ""
-  }
-],
+    /* Diddy Kong */
+    "38": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Lucas */
+    "39": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Sonic */
+    "40": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* King Dedede */
+    "41": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Olimar */
+    "42": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Lucario */
+    "43": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* R.O.B. */
+    "44": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Toon Link */
+    "45": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Wolf */
+    "46": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Villager */
+    "47": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Mega Man */
+    "48": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Wii Fit Trainer */
+    "49": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Rosalina & Luma */
+    "50": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Little Mac */
+    "51": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Greninja */
+    "52": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Mii Brawler */
+    "53": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Mii Swordfighter */
+    "54": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Mii Gunner */
+    "55": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Palutena */
+    "56": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Pac-Man */
+    "57": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Robin */
+    "58": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Shulk */
+    "59": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Bowser Jr. */
+    "60": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Duck Hunt */
+    "61": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Ryu */
+    "62": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Ken */
+    "63": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Cloud */
+    "64": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Corrin */
+    "65": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Bayonetta */
+    "66": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Inkling */
+    "67": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Ridley */
+    "68": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Simon */
+    "69": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Richter */
+    "70": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* King K. Rool */
+    "71": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Isabelle */
+    "72": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Incineroar */
+    "73": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Piranha Plant */
+    "74": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Joker */
+    "75": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Hero */
+    "76": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Banjo & Kazooie */
+    "77": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Terry */
+    "78": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Byleth */
+    "79": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Min Min */
+    "80": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Steve */
+    "81": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Sephiroth */
+    "82": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Pyra/Mythra */
+    "83": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Kazuya */
+    "84": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ],
+    /* Sora */
+    "85": [
+      {
+        "title": "",
+        "link": "",
+        "counter": ""
+      }
+    ]
   }
 ]
