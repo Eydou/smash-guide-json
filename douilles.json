@@ -15,7 +15,11 @@
     ],
     "_comment": "Donkey Kong",
     "1": [
-
+      {
+        "title": "Cargo Throw Fair Spike",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_dk_cargo_fair.mov",
+        "counter": "Ne pas paniquer et sauter directement après l'éjection, DI out"
+      }
     ],
     "_comment": "Link (The Legend of Zelda)",
     "2": [
@@ -524,9 +528,9 @@
     "_comment": "Corrin",
     "65": [
       {
-        "title": "",
-        "link": "",
-        "counter": ""
+        "title": "Forward Smash dans le shield",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_corrin_fsmash_shield.mov",
+        "counter": "Selon la situation où vous serez il faudra soit SDI Up si vous êtes touché ou Shield Sdi Away, attention à ne pas vous faire shield poke/shield break"
       }
     ],
     "_comment": "Bayonetta",
@@ -588,9 +592,9 @@
     "_comment": "Incineroar",
     "73": [
       {
-        "title": "",
-        "link": "",
-        "counter": ""
+        "title": "Down Throw Up b",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_incineroar_dthrow_upb.mp4",
+        "counter": "Ne pas s'impatienter et bourrer sur son bouclier si vous pensez qu'il va fish pour cette douille"
       }
     ],
     "_comment": "Piranha Plant",
