@@ -58,7 +58,7 @@
       {
         "title": "Neutral B Down Air",
         "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_kirby_suck_n_cuck.mp4",
-        "counter": "Ne pas restez au bord si vous savez que votre adversaire va fish pour ça, gardez votre saut si vous vous prenez le down air"
+        "counter": "Ne pas restez au bord si vous savez que votre adversaire va fish pour ça, gardez votre saut si vous vous prenez le Down Air"
       }
     ],
     "_comment": "Fox",
@@ -530,7 +530,7 @@
       {
         "title": "Forward Smash dans le shield",
         "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_corrin_fsmash_shield.mov",
-        "counter": "Selon la situation où vous serez il faudra soit SDI Up si vous êtes touché ou Shield Sdi Away, attention à ne pas vous faire shield poke/shield break"
+        "counter": "Selon la situation où vous serez il faudra soit SDI Up si vous êtes touché ou Shield SDI Away, attention à ne pas vous faire shield poke/shield break"
       }
     ],
     "_comment": "Bayonetta",
@@ -667,6 +667,16 @@
         "title": "Down Air spike sous le terrain",
         "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_seph_dair.mp4",
         "counter": "Mixup sa recovery"
+      },
+      {
+        "title": "Up B 2 Frame Scoop",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_seph_two_frame.mov",
+        "counter": "Il faut mixup le timing et le positionnement de votre recovery si possible, selon le Up B du personnage certains se feront toucher plus facilement"
+      },
+      {
+        "title": "Back Throw Back Air",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_seph_bthrow_bair.mov",
+        "counter": "Ne pas DI In, vous devez DI Out"
       }
     ],
     "_comment": "Pyra/Mythra",
