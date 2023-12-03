@@ -120,9 +120,9 @@
     "_comment": "Bowser",
     "14": [
       {
-        "title": "",
-        "link": "",
-        "counter": ""
+        "title": "Down B Shield Break",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_bowser_down_b_shieldbreak.mov",
+        "counter": "Ne pas shield en dessous de votre adversaire, utilisez plutôt votre spotdodge ou votre roll. Ce coup peut aussi être utilisé en shield break setup sur une plateforme"
       }
     ],
     "_comment": "Ice Climbers",
@@ -376,9 +376,9 @@
     "_comment": "Wolf",
     "46": [
       {
-        "title": "",
-        "link": "",
-        "counter": ""
+        "title": "Down Throw Side B Spike",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_wolf_dthrow_side_b.mov",
+        "counter": "Ne pas DI In, dans cette situation il suffit de DI Out"
       }
     ],
     "_comment": "Villager",
@@ -584,9 +584,9 @@
     "_comment": "Isabelle",
     "72": [
       {
-        "title": "",
-        "link": "",
-        "counter": ""
+        "title": "Side B Command Grab Off stage",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_isabelle_side_b_cheese.mov",
+        "counter": "Si vous êtes sur le terrain vous pouvez simplement shield ce coup, si vous êtes hors du terrain préparez-vous à tech le stage spike ou mettez vous hors de sa portée avant de revenir au bord. Isabelle peut choisir où vous lancer donc restez prudent en edgeguard"
       }
     ],
     "_comment": "Incineroar",
