@@ -19,6 +19,11 @@
         "title": "Cargo Throw Fair Spike",
         "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_dk_cargo_fair.mov",
         "counter": "Ne pas paniquer et sauter directement après l'éjection, DI out"
+      },
+      {
+        "title": "Cargo Throw Stage Spike",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_dk_pineapple.mov",
+        "counter": "Préparez-vous à tech, sinon il faut mash out de son grab le plus vite possible"
       }
     ],
     "_comment": "Link (The Legend of Zelda)",
@@ -35,7 +40,11 @@
     ],
     "_comment": "Yoshi",
     "5": [
-      
+      {
+        "title": "Back Throw Fair Spike",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_yoshi_spike.mov",
+        "counter": "Ne pas DI In ou sauter tout de suite après l'éjection, DI Out"
+      }
     ],
     "_comment": "Kirby",
     "6": [
@@ -155,11 +164,19 @@
     ],
     "_comment": "Wario",
     "33": [
-      
+      {
+        "title": "Neutral B au bord",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_wario_neutralb.mov",
+        "counter": "Ne pas restez au bord en sortant votre bouclier, préparez-vous à tech"
+      }
     ],
     "_comment": "Snake",
     "34": [
-      
+       {
+        "title": "Back Throw Faire Spike",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_snake_spike.mov",
+        "counter": "Ne pas DI In ou sauter tout de suite après l'éjection, DI Out"
+      }
     ],
     "_comment": "Ike",
     "35": [
@@ -291,7 +308,16 @@
     ],
     "_comment": "Cloud",
     "64": [
-      
+       {
+        "title": "Back throw Fair Spike",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_cloud_bthrow_spike.mov",
+        "counter": "Ne pas DI In, dans cette situation il suffit de DI Out"
+      },
+       {
+        "title": "Back Air Fair Spike",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_cloud_bair_spike.mov",
+        "counter": "Essayez de ne pas vous retrouvé dans cette situation"
+      }
     ],
     "_comment": "Corrin",
     "65": [
@@ -311,7 +337,11 @@
     ],
     "_comment": "Ridley",
     "68": [
-      
+       {
+        "title": "Side B au bord",
+        "link": "https://eydou.github.io/smash-guide-json/douilles/Douille_ridley_sideb.mov",
+        "counter": "Ne pas restez au bord en sortant votre bouclier, préparez-vous à tech"
+      }
     ],
     "_comment": "Simon",
     "69": [
